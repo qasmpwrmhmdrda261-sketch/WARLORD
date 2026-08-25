@@ -1,40 +1,64 @@
 [
-    {
-        "device_id": "adae66cf7cc98f2b",
-        "key": "WARLORD",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "b2bf69818cd70121",
-        "key": "H4X",
-        "expirydate": "29-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "c49ae2266f06e59a",
-        "key": "DRAG",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true
-    }
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "29-06-2027",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "15-06-2027",
+    "Allowoffline": false
+  }
 ]
 [
-    {
-        "device_id": "b80a6366acf87665",
-        "key": "@skjjfks",
-        "expirydate": "31-19-2027",
-        "Allowoffline": true
-    [
-    {
-        "device_id": "86880e5dc61155d6",
-        "key": "GOAFKKQ",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c49ae2266f06e5a",
-        "key": "DRAG",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    }
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "29-06-2027",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "15-06-2027",
+    "Allowoffline": false
+  }
 ]
