@@ -28,9 +28,7 @@
     "key": "Taha13taha",
     "expirydate": "15-06-2027",
     "Allowoffline": false
-  }
-]
-[
+  },
   {
     "device_id": "a302f26dfb1324e3",
     "key": "FKKWFIW",
@@ -52,6 +50,36 @@
   {
     "device_id": "223069f481f793b8",
     "key": "FFX",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "15-06-2027",
+    "Allowoffline": false
+  },
+{
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "29-06-2027",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
     "expirydate": "31-12-2027",
     "Allowoffline": true
   },
