@@ -167,4 +167,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "b2bf69818cd70121",
+    "key": "H4X",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
