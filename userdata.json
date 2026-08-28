@@ -149,4 +149,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "9f831b80f551ca24",
+    "key": "bot",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
