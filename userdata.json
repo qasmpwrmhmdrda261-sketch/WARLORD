@@ -143,4 +143,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "997ba89e97fe8f49",
+    "key": "PDFWAR",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
