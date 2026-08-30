@@ -179,4 +179,16 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "55b9447461ec4e4d",
+    "key": "kahtare",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "1393e639e2f4cc9d",
+    "key": "FGair",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
