@@ -191,4 +191,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "278abc0dd46ebedb",
+    "key": "FAMIR1388",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
