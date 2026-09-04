@@ -197,4 +197,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "64e17b35ba12e134",
+    "key": "AIOP",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
