@@ -209,4 +209,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "bb967496738c6a80",
+    "key": "shayanFFplayer",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
