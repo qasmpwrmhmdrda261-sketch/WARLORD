@@ -221,4 +221,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "23323e9b45fb4e1f",
+    "key": "CRAFOQ",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
