@@ -215,4 +215,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "5f149db287a1ab28",
+    "key": "NINGA",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
