@@ -233,4 +233,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "2a65c2a63ee2e6a1",
+    "key": "MICHAEL",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
