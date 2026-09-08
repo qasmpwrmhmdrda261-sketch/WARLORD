@@ -245,4 +245,10 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
+  {
+    "device_id": "fdb4400266dc3f5c",
+    "key": "KVSOWOWLA",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  },
 ]
