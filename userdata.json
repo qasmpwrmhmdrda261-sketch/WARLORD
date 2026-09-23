@@ -10,5 +10,12 @@
         "key": "Prime",
         "expirydate": "15-06-2028",
         "Allowoffline": false
-    }
-]
+    },
+    {
+        "device_id": "40ad611c6323ee0f",
+        "key": "PANEL",
+        "expirydate": "31-12-2029",
+        "Allowoffline": true
+    },
+[
+    
