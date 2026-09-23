@@ -1,21 +1,32 @@
 [
-    {
-        "device_id": "adae66cf7cc98f2b",
-        "key": "WARLORD",
-        "expirydate": "31-12-2029",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "640f77daaadaab0c",
-        "key": "Prime",
-        "expirydate": "15-06-2028",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "40ad611c6323ee0f",
-        "key": "PANEL",
-        "expirydate": "31-12-2029",
-        "Allowoffline": true
-    },
-[
-    
+  {
+    "device_id": "40ad611c6323ee0f",
+    "key": "PANEL",
+    "expirydate": "29-06-2028",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "640f77daaadaab0c",
+    "key": "Prime",
+    "expirydate": "31-12-2028",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "DEVICE_ID",
+    "key": "KEY",
+    "expirydate": "15-06-2027",
+    "Allowoffline": false
+  }
+]
