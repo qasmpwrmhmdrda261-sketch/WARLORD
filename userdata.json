@@ -89,4 +89,29 @@
     "expirydate": "15-06-2029",
     "Allowoffline": false
   }
+  },
+  {
+    "device_id": "be4fde8a034a3440",
+    "key": "YTUS",
+    "expirydate": "31-12-2029",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "52f503a790b89471",
+    "key": "HKDKDKDODO",
+    "expirydate": "31-12-2028",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "d05d2efc24488536",
+    "key": "GUD",
+    "expirydate": "31-12-2029",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "0110a39cd6372b07",
+    "key": "KOSBABAT",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
+  }
 ]
