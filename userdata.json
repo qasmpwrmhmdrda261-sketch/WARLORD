@@ -112,5 +112,23 @@
     "key": "HTML",
     "expirydate": "15-06-2029",
     "Allowoffline": false
+  },
+  {
+    "device_id": "54c8a6b22af662da",
+    "key": "B2K",
+    "expirydate": "31-12-2029",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "68d021e01b448cc1",
+    "key": "SSS",
+    "expirydate": "31-12-2029",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "7ff10073062f1ac8",
+    "key": "HTML",
+    "expirydate": "15-06-2029",
+    "Allowoffline": false
   }
 ]
