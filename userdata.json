@@ -1,31 +1,31 @@
 [
   {
-    "device_id": "e8dee57ad27da43d",
-    "key": "GKWDTWODQALP",
+    "device_id": "",
+    "key": "",
     "expirydate": "29-06-2029",
     "Allowoffline": false
   },
   {
-    "device_id": "cc40015aeb9ca76c",
-    "key": "PHTYUSICS",
+    "device_id": "",
+    "key": "",
     "expirydate": "31-12-2029",
     "Allowoffline": true
   },
   {
-    "device_id": "d402d36e72f294f6",
-    "key": "ZBEFKKWLQA",
+    "device_id": "",
+    "key": "",
     "expirydate": "31-12-2027",
     "Allowoffline": true
   },
   {
-    "device_id": "563db7923520b309",
-    "key": "VIP",
+    "device_id": "",
+    "key": "",
     "expirydate": "31-12-2027",
     "Allowoffline": true
   },
   {
-    "device_id": "ff167c0c6e3ab32c",
-    "key": "HANZO",
+    "device_id": "",
+    "key": "",
     "expirydate": "15-06-2029",
     "Allowoffline": false
   },
